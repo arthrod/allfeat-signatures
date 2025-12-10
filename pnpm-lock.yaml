@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   classix:
-    specifier: ^2.1.35
-    version: 2.1.35
+    specifier: ^2.2.6
+    version: 2.2.6
 
 devDependencies:
   '@sveltejs/vite-plugin-svelte':
@@ -875,8 +875,8 @@ packages:
       fsevents: 2.3.3
     dev: true
 
-  /classix@2.1.35:
-    resolution: {integrity: sha512-YRI5UjBq9Aspfnj6ZyCobyeye3EDAanCpBWqXhNH9bVloKC6Ejnz+K4pWu/qMSaJRJEtLgmfvkIRk5zbQqj2PA==}
+  /classix@2.2.6:
+    resolution: {integrity: sha512-GzMhtAyUKS4g2fFY04vAbOhoJ5cnt8M/9KInhh4XQOQ4DnHjHQ5U5LiGf6JK8BwN9EiifbESpEYkpJs4noUWNw==}
     dev: false
 
   /code-red@1.0.4:
